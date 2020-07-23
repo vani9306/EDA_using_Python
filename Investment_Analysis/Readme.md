@@ -1,4 +1,4 @@
-###The objective of this project is to understand the global trends in investments so as to make the investment decisions more effective.
+The objective of this project is to understand the global trends in investments so as to make the investment decisions more effective.
 
 Constraints adhered in the project:
 1.	Investment range: 5 to 15 million USD per round of investment
